@@ -1,0 +1,48 @@
+
+body {
+   
+    padding:5px;
+    margin:0;
+    }
+    body {
+    background-image: url("paper.jpg");
+}
+    .header{
+       
+        
+        color: darkred;
+        text-align: center;
+        top:0;
+        width:100%;
+        padding: 5px;
+    }
+    form{
+        width: 30%;
+        padding: 60px;
+        border:1px darkred ;
+        margin: 5px auto;
+        
+    }
+    .textfild{
+      margin-top: 2px;
+      height: 28px;
+      border:1px solid red;
+      front-size:30px;
+      width:100%;
+    }
+    #error_msg{
+        width: 50%;
+        margin: 5px auto;
+        height:38px;
+        border:1px;
+        backgraund:1px solid red;
+        color: blue;
+        text-align:center;
+        padding-top: 10px;
+    }
+    td{
+        text-align: right;
+    }
+    
+
+
